@@ -1,0 +1,66 @@
+/*------------------------------------------------------
+
+
+
+------------------------------------------------------*/
+main .text ,
+main figure { max-width: 640px; margin-left: auto; margin-right: auto;}
+
+main figcaption { color: var(--color-pages-text); font-size: 1.2rem; text-align: left; padding: 0; margin: 0;}
+
+@media (min-width: 768px) {
+    main .text { margin-bottom: 50px;}
+    main figure img { margin-bottom: 30px;}
+}
+
+@media (max-width: 767px) {
+    main .text { margin-bottom: 30px;}
+    main figure img { margin-bottom: 20px;}
+}
+
+
+/*------------------------------------------------------
+
+
+
+------------------------------------------------------*/
+
+@media (min-width: 768px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
+
+
+
+/*------------------------------------------------------
+
+
+
+------------------------------------------------------*/
+
+@media (min-width: 768px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
+
+
+
+/*------------------------------------------------------
+
+
+
+------------------------------------------------------*/
+
+@media (min-width: 768px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
